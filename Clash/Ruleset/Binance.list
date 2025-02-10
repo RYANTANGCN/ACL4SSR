@@ -1,5 +1,3 @@
-# 内容：币安交易所
-# 数量：9条
 payload:
   - '.binance.com'
   - '.binance.me'
